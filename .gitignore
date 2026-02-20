@@ -1,0 +1,21 @@
+# Virtual Environment
+DTTvenv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Data files (optional, if you don't want to upload large csv)
+*.csv
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

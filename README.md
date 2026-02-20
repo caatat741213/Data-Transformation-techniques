@@ -36,10 +36,6 @@ The goal is to prepare data and make it structured for Machine Learning models.
 The goal is to reduce the data size while keeping important information.
 * **09 Sampling**: Uses a representative subset (SRSWOR or Stratified Sampling).
 * **10 Aggregation**: Replaces raw data with summary statistics (e.g., Min to Hour).
-# 🗺️ Data Transformation & Reduction Map
-
-This notebook is part of a 10-technique series. Here is how they are organized:
-
 ---
 
 ## I. Data Transformation (Preparing the Structure)
